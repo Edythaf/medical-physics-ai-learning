@@ -1,11 +1,24 @@
-# Medical Physics AI Learning
+## Foundation: Python for Radiotherapy
 
-Learning journey toward AI and Automated Treatment Planning in Medical Physics.
+Completed topics:
 
-## Goals
+- Python variables and arithmetic
+- NumPy arrays for dose data
+- Vx and Dx calculations
+- Cumulative DVH
+- PTV vs OAR evaluation
+- D98, D95, D50, D2
+- Homogeneity Index
+- OAR Dmean and Dmax
+- Reusable dose-metric functions
+- Treatment plan comparison
+- Weighted plan scoring
+- Mini radiotherapy plan analyzer
 
-- Learn Python for Medical Physics
-- Understand radiotherapy data and DICOM
-- Learn Machine Learning and Deep Learning
-- Study Automated Treatment Planning
-- Build reproducible AI projects for Medical Physics    
+### Foundation files
+
+- `src/lesson01_dose_basics.py`
+- `src/lesson02_ptv_oar_dvh.py`
+- `src/lesson03_dose_metrics.py`
+- `src/lesson04_plan_comparison.py`
+- `src/lesson05_mini_plan_analysis.py`
